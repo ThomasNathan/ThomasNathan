@@ -1,13 +1,14 @@
 <!-- ### Hi there 👋 -->
 <a href="https://www.learnenough.com/certificates/e130dced"><img src="https://www.learnenough.com/certificates/e130dced/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/e130dced"><img src="https://www.learnenough.com/certificates/e130dced/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/e130dced"><img src="https://www.learnenough.com/certificates/e130dced/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/e130dced"><img src="https://www.learnenough.com/certificates/e130dced/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/e130dced"><img src="https://www.learnenough.com/certificates/e130dced/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/e130dced"><img src="https://www.learnenough.com/certificates/e130dced/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/e130dced"><img src="https://www.learnenough.com/certificates/e130dced/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/e130dced"><img src="https://www.learnenough.com/certificates/e130dced/ruby-on-rails-7th-edition-tutorial.svg" alt="Certificate of Completion for Ruby on Rails (Rails 7)"></a>
 
-<!--
+
 
 # Portfolio Projects
 
 https://peaceful-oasis-91229.herokuapp.com/
 
 
+<!--
 
 **ThomasNathan/ThomasNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
