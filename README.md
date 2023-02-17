@@ -11,6 +11,7 @@ Movie Review App as part of the Ruby on Rails tutorial by Pragmatic Studios
   <li>Basic authentication</li>
   <li>Active Record Relations</li>
   <li>Ability to list movie, write review, movie rating (1-5 stars), and allow user to save favorite movies</li>
+ </ul>
 
 # Currently Reading...
 <a href="https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/">beta version of Agile Web Development with Rails 7</a>
