@@ -1,7 +1,10 @@
 # Portfolio Projects
 The Sample App as part of the Ruby on Rails Tutorial by Michael Hartl.
-Built authentication from scratch Built Twitter clone
-TDD with minitest
+<ul>
+  <li>Built authentication from scratch</li>
+  <li>Built Twitter clone</li>
+  <li>TDD with minitest</li>
+</ul>
 
 Movie Review App as part of the Ruby on Rails tutorial by Pragmatic Studios
 Basic authentication
