@@ -1,12 +1,12 @@
 # Portfolio Projects
-The Sample App as part of the Ruby on Rails Tutorial by Michael Hartl.
+The Sample App as part of the <a href="https://www.learnenough.com/ruby-on-rails-7th-edition">Ruby on Rails Tutorial by Michael Hartl.</a>
 <ul>
   <li>Built authentication from scratch</li>
   <li>Built Twitter clone</li>
   <li>TDD with minitest</li>
 </ul>
 
-Movie Review App as part of the Ruby on Rails tutorial by Pragmatic Studios
+Movie Review App as part of the Ruby on <a href="https://pragmaticstudio.com/courses/rails">Rails tutorial by Pragmatic Studios</a>
 <ul>
   <li>Basic authentication</li>
   <li>Active Record Relations</li>
