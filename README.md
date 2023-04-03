@@ -1,4 +1,4 @@
-# <a href="https://medium.com/@thomas.nathanm">Check out my blog</a>
+### <a href="https://medium.com/@thomas.nathanm">Check out my blog</a>
 
 
 # Portfolio Projects
