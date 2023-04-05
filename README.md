@@ -1,5 +1,4 @@
-### <a href="https://medium.com/@thomas.nathanm">Check out my blog</a>
-
+### <a href="https://medium.com/@thomas.nathanm">Check out my blog</a> | <a href="https://www.linkedin.com/in/nathan-thomas-b95657230/">Find me on LinkedIn.</a>
 
 # Portfolio Projects
 The Sample App as part of the <a href="https://www.learnenough.com/ruby-on-rails-7th-edition">Ruby on Rails Tutorial by Michael Hartl.</a>
