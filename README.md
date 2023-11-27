@@ -4,7 +4,8 @@
 New website for BGR, a goat ranch in Texas. This will help client save time by easily updating livestock inventory and receiving payments from customers online. 
 
 # Currently Reading 📖
-<a href="https://railsandhotwirecodex.com/">Rails And Hotwire Codex</a>
+- <a href="https://www.amazon.com/dp/1801813787?psc=1&ref=ppx_yo2ov_dt_b_product_details">Layered Design for Ruby on Rails Applications</a>
+- <a href="https://railsandhotwirecodex.com/">Rails And Hotwire Codex</a>
 
 # Looking to hire? 👋
 Send me a message on LinkedIn!
