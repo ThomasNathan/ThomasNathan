@@ -1,7 +1,7 @@
 ### <a href="https://medium.com/@thomas.nathanm">Check out my blog</a> | <a href="https://www.linkedin.com/in/nathan-thomas-b95657230/">Find me on LinkedIn.</a>
 
 # Currently Building 👷‍♂️
-New website for BGR, a goat ranch in Texas. This will help client save time by easily updating livestock inventory and receiving payments from customers online. 
+I am continuing to add features and upgrades to my SAAS designed for churches and people in ministry. This is extremely niche and fills a need I experienced during my extensive experience working in that field. <a href="https://www.pluggedinpeople.com/>Plugged in People</a>
 
 # Currently Learning 💻
 - <a href="https://www.theodinproject.com/">Going through The Odin Project</a>
