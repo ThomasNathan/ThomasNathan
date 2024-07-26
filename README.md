@@ -3,9 +3,13 @@
 # Currently Building 👷‍♂️
 New website for BGR, a goat ranch in Texas. This will help client save time by easily updating livestock inventory and receiving payments from customers online. 
 
-# Currently Reading 📖
+# Currently Learning 💻
+- <a href="https://www.theodinproject.com/">Going through The Odin Project</a>
+
+# Books Read/ing 📚
 - <a href="https://www.amazon.com/dp/1801813787?psc=1&ref=ppx_yo2ov_dt_b_product_details">Layered Design for Ruby on Rails Applications</a>
 - <a href="https://railsandhotwirecodex.com/">Rails And Hotwire Codex</a>
+- <a href="https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition/">Programming Ruby 3.3 (5th Edition)</a>
 
 # Looking to hire? 👋
 Send me a message on LinkedIn!
